@@ -2,6 +2,9 @@
 # Version Files
 releases/darwin/*
 
+# Editor Config
+.idea/
+
 # Logs
 logs
 *.log
